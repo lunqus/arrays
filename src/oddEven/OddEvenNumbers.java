@@ -14,6 +14,8 @@ public class OddEvenNumbers {
 
         int[] arr = new int[a];
 
+        System.out.println("Enter " + a + " numbers into Array");
+
         for (int i = 0; i < a; i++) {
             arr[i] = scanner.nextInt();
         }
