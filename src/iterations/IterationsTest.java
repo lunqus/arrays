@@ -11,6 +11,7 @@ public class IterationsTest {
         ArrayList<String> names = new ArrayList<>(Arrays.asList("Svilnas", "Matrioska", "Salon", "Kuzia"));
 
         System.out.println("\n===== For Loop =====");
+
         // For Loop
         for (int i = 0; i < names.size(); i++) System.out.print(names.get(i) + " ");
 
