@@ -3,7 +3,7 @@ package addReplace;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class addReplaceTest {
+public class AddReplaceTest {
 
     public static void main(String[] args) {
 
