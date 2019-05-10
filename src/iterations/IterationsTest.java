@@ -1,8 +1,7 @@
 package iterations;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.ListIterator;
+import java.sql.Connection;
+import java.util.*;
 
 public class IterationsTest {
 
@@ -36,5 +35,6 @@ public class IterationsTest {
 
         // Java 8 Stream
         names.forEach(name -> System.out.print(name + " "));
+
     }
 }
